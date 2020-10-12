@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+
+In this project, I pulled weather data from 683 random cities across the world, including, but limited to, maximum temperature, wind speed, and weather description. After pulling the weather data, I constructed a feature that allows customers to search for locations based on their temperature preferences - in this feature users can enter their maximum and minimum preferred temperature. Then, I developed a way to pull hotels based on the random latitudes and longitudes that determined our initial city choices. Finally, I developed maps so users can see their itinerary.
